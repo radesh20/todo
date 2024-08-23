@@ -1,8 +1,5 @@
 # todo
 WEb Link https://react-todo-56dc9.web.app
-preview 
-![Uploading Screenshot 2024-08-23 at 11.55.48 PM.png…]()
-![Uploading Screenshot 2024-08-23 at 9.50.48 PM.png…]()
 # Todo Application
 
 ## Description
